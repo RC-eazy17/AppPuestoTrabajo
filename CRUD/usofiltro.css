@@ -1,0 +1,14 @@
+/* aqui irian los atributos css que tendran en comun las tarjetas */
+.jobs{
+    display: grid;
+    color: green;
+}
+
+Esta es la clase que se le agregaran a las tarjetas que no se desean
+cuando se este buscando una, asi desapareseran los elementos no deseados
+dejando los que se esten buscando 
+
+.filter{
+    display: none;
+
+}
